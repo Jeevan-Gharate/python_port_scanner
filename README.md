@@ -4,4 +4,4 @@ to install python3 (for linux) -- sudo apt-get install python3
 
 Run the Script -- python3 portscanner.py 
 fill the prompt that will be asked .
-boom you will get all open ports on The IP with service in fraction of seconds.
+boom you will get all open ports on The IP with service. It may Take Time so do co-operate..
